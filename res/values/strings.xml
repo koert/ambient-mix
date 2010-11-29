@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmbientMix</string>
+    <string name="cancel_button_title">Cancel</string>
+    <string name="file_chooser_title">Choose file</string>
+    <string name="fragment_detail_title">Audio fragment</string>
+    <string name="fragment_file_label">File</string>
+    <string name="fragment_name_label">Name</string>
+    <string name="fragment_name_initial_text">Name</string>
+    <string name="fragment_view_title">Audio fragment</string>
+    <string name="help_title">Help</string>
+    <string name="menu_add_fragment">Add fragment</string>
+    <string name="menu_button_title">Menu</string>
+    <string name="menu_edit_fragment">Edit fragments</string>
+    <string name="menu_help">Help</string>
+    <string name="no_fragments">No audio fragments</string>
+    <string name="play_button_title">Play</string>
+    <string name="pause_button_title">Pause</string>
+    <string name="repeat_title">Repeat</string>
+    <string name="save_button_title">Save</string>
+    <string name="select_file_button_title">Select file</string>
+</resources>

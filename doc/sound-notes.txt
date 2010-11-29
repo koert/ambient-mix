@@ -1,0 +1,35 @@
+Good sounds Kaossilator
+
+L00 Ambient
+L03 
+L09 
+L11
+L12 Flute
+L14 Voice
+
+A20 Trumpet
+A21 Piano
+A25 Bells
+A26 Guitar
+A27 Sax
+A28 Harmonica
+A29 Flute
+
+
+B31 Deep bass
+B36
+B49 Organ bass
+
+C51 Clean chord
+C53 shimmering effect
+C54 Choir
+C59 Power hit
+
+S60 Background effect
+S61 Laser
+S62 SciFi
+S64 Pink Noise
+S69 Computer sounds
+S75 Voice
+
+D87 Gong

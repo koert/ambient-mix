@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+		
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:gravity="center_vertical"
+	android:baselineAligned="false"
+    >
+
+		<TextView android:id="@+id/fragment_name" 
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+		    android:paddingTop="5px" 
+			android:paddingLeft="2px"
+			android:paddingRight="0px" 
+		    style="@style/text"
+		    />
+
+	    <Button android:id="@+id/menu_button"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+	        android:layout_alignParentRight="true"
+            android:text=""
+            android:background="@drawable/menu"
+            />
+            
+		<ToggleButton android:id="@+id/play_button"
+	        android:layout_width="wrap_content"
+	        android:layout_height="fill_parent"
+    		android:layout_toLeftOf="@id/menu_button"
+			android:nextFocusDown="@+id/menu_button"
+	        android:textOn=""
+	        android:textOff=""
+			android:background="@drawable/play_image"
+	        />
+
+		<ToggleButton android:id="@+id/repeat"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+    		android:layout_toLeftOf="@id/play_button"
+	        android:textOn=""
+	        android:textOff=""
+			android:background="@drawable/repeat_image"
+			android:nextFocusDown="@+id/play_button"
+			/>
+
+</RelativeLayout>

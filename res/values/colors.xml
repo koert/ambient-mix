@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="even_stripe">#e5edfa</drawable>
+	<drawable name="odd_stripe">#ffffffff</drawable>
+
+	<drawable name="date_blue">#6f84b3</drawable>	
+	<drawable name="light_blue">#80d0ff</drawable>
+	<drawable name="light_yellow">#ffffe0</drawable>
+	<drawable name="light_gray">#888888</drawable>
+	<drawable name="green">#39939b</drawable>
+	<drawable name="transparent_blue">#8080d0ff</drawable>
+
+	<color name="view_title">#ffffff</color>
+	<color name="view_header_background">#888888</color>
+	<color name="task_type_background">#888888</color>
+	<color name="task_type_unprocessed_background">#888888</color>
+	<color name="task_type_next_action_background">#00dd00</color>
+	<color name="task_type_waiting_background">#dd0000</color>
+	<color name="task_type_someday_background">#0000dd</color>
+	<color name="project_indicator_background">#00dddd</color>
+</resources>

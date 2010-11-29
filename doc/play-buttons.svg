@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="play-buttons.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3606">
+      <stop
+         style="stop-color:#39ff31;stop-opacity:1;"
+         offset="0"
+         id="stop3608" />
+      <stop
+         style="stop-color:#39ff31;stop-opacity:0;"
+         offset="1"
+         id="stop3610" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3642"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3720"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3748"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3805"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3859"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2843"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3642-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3695"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3695-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3695-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3735"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3797"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="112.6579"
+     inkscape:cy="796.55464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1394"
+     inkscape:window-height="816"
+     inkscape:window-x="173"
+     inkscape:window-y="86"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ffc551;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-0-4-7"
+       width="65"
+       height="70"
+       x="25"
+       y="377.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_off_focus.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:none;stroke:#ffc551;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-0-4"
+       width="65"
+       height="70"
+       x="140"
+       y="497.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on_focus.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <rect
+       style="opacity:0.53974897;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:32.79999924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860"
+       width="45"
+       height="50"
+       x="215"
+       y="27.362183"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/play.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="opacity:1;fill:#03fc03;fill-opacity:1;fill-rule:nonzero;stroke:#03fc03;stroke-width:14.36140536999999995;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596"
+       width="60"
+       height="55"
+       x="-112.36218"
+       y="75"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/play.png"
+       inkscape:export-xdpi="38.926544"
+       inkscape:export-ydpi="38.926544" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 75,52.362183 0,59.999997 60,-29.999997 -60,-30 z"
+       id="path2822"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/play.png"
+       inkscape:export-xdpi="38.926544"
+       inkscape:export-ydpi="38.926544" />
+    <rect
+       style="fill:#03fc03;fill-opacity:1;fill-rule:nonzero;stroke:#03fc03;stroke-width:14.36140537;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596-6"
+       width="60"
+       height="55"
+       x="-202.36218"
+       y="75"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/pause.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3659"
+       width="15"
+       height="50"
+       x="80"
+       y="147.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/pause.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3659-8"
+       width="15"
+       height="50"
+       x="110"
+       y="147.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/pause.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:14.36140537000000172;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596-6-0"
+       width="60"
+       height="55"
+       x="-287.36218"
+       y="25"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/menu.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 70,241.80762 -35,0 17.5,30.55455 17.5,-30.55455 z"
+       id="path2822-0"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/menu.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:14.36140537;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596-6-0-0"
+       width="60"
+       height="55"
+       x="-562.91675"
+       y="30"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 30,542.36218 40,0 c 0,0 15,0.10907 15,-15 0,-15 -15,-15 -15,-15 l -20,0 c 0,0 -15,0 -15,15 0,14.77327 15,15 15,15"
+       id="path3822"
+       sodipodi:nodetypes="cczczzc"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55,532.36218 c 10,10 10,10 10,10 l -10,10 0,-20 z"
+       id="path3824"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:14.36140537;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596-6-0-0-1"
+       width="60"
+       height="55"
+       x="-442.91675"
+       y="30"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_off_focus.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 30,422.36218 40,0 c 0,0 5,0 15,0"
+       id="path3822-0"
+       sodipodi:nodetypes="ccz"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_off_focus.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55,412.36218 c 10,10 10,10 10,10 l -10,10 0,-20 z"
+       id="path3824-1"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_off_focus.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#03fc03;fill-opacity:1;fill-rule:nonzero;stroke:#03fc03;stroke-width:14.36140537;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3596-9"
+       width="60"
+       height="55"
+       x="-82.362183"
+       y="210"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/play.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 210,22.362183 0,59.999994 60,-29.999994 -60,-30 z"
+       id="path2822-2"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/play.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:32.79999923999999822;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-3"
+       width="45"
+       height="50"
+       x="80"
+       y="147.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/pause.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:32.79999924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-0"
+       width="45"
+       height="50"
+       x="35"
+       y="507.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:32.79999923999999822;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-9"
+       width="45"
+       height="50"
+       x="30"
+       y="232.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/menu.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:32.79999924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2860-2"
+       width="45"
+       height="50"
+       x="35"
+       y="387.36218"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_off_focus.png"
+       inkscape:export-xdpi="52.173882"
+       inkscape:export-ydpi="52.173882" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:14.36140537000000172;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:1"
+       id="rect3596-6-0-0-6"
+       width="60"
+       height="55"
+       x="-562.91675"
+       y="145"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on_focus.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.89958159"
+       d="m 145,542.36218 40,0 c 0,0 15,0.10907 15,-15 0,-15 -15,-15 -15,-15 l -20,0 c 0,0 -15,0 -15,15 0,14.77327 15,15 15,15"
+       id="path3822-09"
+       sodipodi:nodetypes="cczczzc"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on_focus.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.89958159"
+       d="m 170,532.36218 c 10,10 10,10 10,10 l -10,10 0,-20 z"
+       id="path3824-12"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/res/drawable/repeat_on_focus.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+</svg>

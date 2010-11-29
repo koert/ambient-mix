@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="note-icon.svg"
+   inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+   inkscape:export-xdpi="8.5976954"
+   inkscape:export-ydpi="8.5976954">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3625"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3653"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter3698"
+       x="-0.13707083"
+       width="1.2741417"
+       y="-0.19541859"
+       height="1.3908372">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.043739"
+         id="feGaussianBlur3700" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3702"
+       x="-0.37831473"
+       width="1.7566295"
+       y="-0.064846855"
+       height="1.1296937">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.043739"
+         id="feGaussianBlur3704" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3706"
+       x="-0.28672789"
+       width="1.5734558"
+       y="-0.10043739"
+       height="1.2008748">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.043739"
+         id="feGaussianBlur3708" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3695"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter3774"
+       x="-0.20825401"
+       width="1.416508"
+       y="-0.29690273"
+       height="1.5938055">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.259621"
+         id="feGaussianBlur3776" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3778"
+       x="-0.82007662"
+       width="2.6401532"
+       y="-0.14056918"
+       height="1.2811384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.771914"
+         id="feGaussianBlur3780" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3782"
+       x="-0.4625751"
+       width="1.9251502"
+       y="-0.16203458"
+       height="1.3240692">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.203459"
+         id="feGaussianBlur3784" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3803"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3774-1"
+       x="-0.20825401"
+       width="1.416508"
+       y="-0.29690272"
+       height="1.5938056">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.259621"
+         id="feGaussianBlur3776-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3778-6"
+       x="-0.82007664"
+       width="2.6401532"
+       y="-0.14056918"
+       height="1.2811384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.771914"
+         id="feGaussianBlur3780-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3782-4"
+       x="-0.46257511"
+       width="1.9251502"
+       y="-0.16203459"
+       height="1.3240691">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.203459"
+         id="feGaussianBlur3784-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3698-2"
+       x="-0.13707083"
+       width="1.2741417"
+       y="-0.1954186"
+       height="1.3908372">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.043739"
+         id="feGaussianBlur3700-8" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3865"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3698-2-0"
+       x="-0.13707083"
+       width="1.2741417"
+       y="-0.1954186"
+       height="1.3908372">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.043739"
+         id="feGaussianBlur3700-8-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3917"
+       x="-0.077131116"
+       width="1.1542622"
+       y="-0.10996398"
+       height="1.219928">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6517114"
+         id="feGaussianBlur3919" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3921"
+       x="-0.30752873"
+       width="1.6150575"
+       y="-0.052713441"
+       height="1.1054269">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.1644676"
+         id="feGaussianBlur3923" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3925"
+       x="-0.17346566"
+       width="1.3469313"
+       y="-0.060762967"
+       height="1.1215259">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.076297"
+         id="feGaussianBlur3927" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="100.86374"
+     inkscape:cy="502.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1191"
+     inkscape:window-height="879"
+     inkscape:window-x="248"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background-black"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#fafafa;stroke-width:60;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3930"
+       width="657.14288"
+       height="785.71429"
+       x="51.42857"
+       y="43.790752" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background-white"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#fafafa;fill-opacity:1;stroke:#fafafa;stroke-width:40;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3917)"
+       id="path2816-8"
+       sodipodi:cx="227.14285"
+       sodipodi:cy="576.64789"
+       sodipodi:rx="90"
+       sodipodi:ry="58.57143"
+       d="m 317.14285,576.64789 a 90,58.57143 0 1 1 -180,0 90,58.57143 0 1 1 180,0 z"
+       transform="matrix(0.95941201,-0.28200816,0.28200816,0.95941201,-103.24051,155.94008)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411" />
+    <path
+       style="fill:none;stroke:#fafafa;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3921)"
+       d="M 358.30127,626.70191 422.01799,254.98036"
+       id="path2820-6"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411" />
+    <path
+       style="fill:none;stroke:#fafafa;stroke-width:70;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3925)"
+       d="m 415.87392,283.69828 c 0,0 24.82389,7.88937 71.42857,105.71429 30.02192,63.01709 -2.85714,134.28572 -2.85714,134.28572"
+       id="path3594-7"
+       sodipodi:nodetypes="csc"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline">
+    <path
+       style="opacity:0.70899999;fill:none;stroke:#000000;stroke-width:21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3702)"
+       d="M 369.97864,650.31573 433.69536,278.59418"
+       id="path2820-7"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411" />
+    <path
+       style="opacity:0.75113124;fill:none;stroke:#000000;stroke-width:32.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3706)"
+       d="m 438.97986,304.45495 c 0,0 24.82389,7.88937 71.42857,105.71429 30.02192,63.01709 -2.85714,134.28572 -2.85714,134.28572"
+       id="path3594-2"
+       sodipodi:nodetypes="csc"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.703;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3698-2-0)"
+       id="path2816-1"
+       sodipodi:cx="227.14285"
+       sodipodi:cy="576.64789"
+       sodipodi:rx="90"
+       sodipodi:ry="58.57143"
+       d="m 317.14285,576.64789 a 90,58.57143 0 1 1 -180,0 90,58.57143 0 1 1 180,0 z"
+       transform="matrix(0.95941201,-0.28200816,0.28200816,0.95941201,-77.685849,188.8897)"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g3623"
+       inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/note-icon.png"
+       inkscape:export-xdpi="7.7982411"
+       inkscape:export-ydpi="7.7982411">
+      <path
+         inkscape:export-ydpi="9.5101757"
+         inkscape:export-xdpi="9.5101757"
+         inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/path3594.png"
+         transform="matrix(0.95941201,-0.28200816,0.28200816,0.95941201,-101.97157,156.03255)"
+         d="m 317.14285,576.64789 a 90,58.57143 0 1 1 -180,0 90,58.57143 0 1 1 180,0 z"
+         sodipodi:ry="58.57143"
+         sodipodi:rx="90"
+         sodipodi:cy="576.64789"
+         sodipodi:cx="227.14285"
+         id="path2816"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="9.5101757"
+         inkscape:export-xdpi="9.5101757"
+         inkscape:export-filename="/home/koert/project/koert/dev/android/AmbientPlayer/path3594.png"
+         id="path2820"
+         d="M 356.71306,635.36581 420.42978,263.64426"
+         style="fill:none;stroke:#000000;stroke-width:21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="9.5101757"
+         inkscape:export-xdpi="9.5101757"
+         sodipodi:nodetypes="csc"
+         id="path3594"
+         d="m 414.28571,278.07646 c 0,0 24.82389,7.88937 71.42857,105.71429 30.02192,63.01709 -2.85714,134.28572 -2.85714,134.28572"
+         style="fill:none;stroke:#000000;stroke-width:32.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

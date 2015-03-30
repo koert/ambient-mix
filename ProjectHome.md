@@ -1,0 +1,1 @@
+With this Android application you can play multiple MP3 files simultaneously to create a mix.
